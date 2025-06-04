@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\combustioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\combustioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\diank\\downloads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\temperaturetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\temperaturetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\temperaturesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\temperaturesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\heatcapacitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\heatcapacitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\combustioncalculator\\windowsformsapp1\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\diank\\downloads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\windowsformsapp1\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9997A09B-2083-4E03-B668-E16432863CF6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\diank\\downloads\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diank\\Downloads\\Form1.cs",
+              "ToolTip": "C:\\Users\\diank\\Downloads\\Form1.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAADEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:16:34.233Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diank\\Downloads\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\diank\\Downloads\\Form1.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:45:09.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:51:10.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\InputReader.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InputReader.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\InputReader.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\InputReader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:20:38.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\ChartForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ChartForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\ChartForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ChartForm.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:45:00.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\ChartForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ChartForm.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:41:59.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputData.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\InputData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InputData.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\InputData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\InputData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:19:47.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureTable.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\TemperatureTable.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TemperatureTable.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\TemperatureTable.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TemperatureTable.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAmwAABAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:58:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemperatureSolver.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\TemperatureSolver.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TemperatureSolver.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\TemperatureSolver.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TemperatureSolver.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAmwDEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:41:27.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombustionCalculator.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\CombustionCalculator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CombustionCalculator.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\CombustionCalculator.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CombustionCalculator.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAwwL4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:21:56.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowsFormsApp1",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T05:45:10.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeatCapacityCalculator.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\HeatCapacityCalculator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\HeatCapacityCalculator.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u0440\u0444\u0443\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u043F\u043B\u043E\u044D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u043A\u0430 \u0438 \u044D\u043D\u0435\u0440\u0433\u043E\u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\CombustionCalculator\\WindowsFormsApp1\\HeatCapacityCalculator.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\HeatCapacityCalculator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:51:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\diank\\Downloads\\Form1.cs",
+              "ToolTip": "C:\\Users\\diank\\Downloads\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:12:34.879Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
